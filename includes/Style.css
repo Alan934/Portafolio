@@ -1,0 +1,28 @@
+#presentacion{
+    width: 70%;
+}
+
+#carouselExampleCaptions{
+    width: 60%;
+}
+.carousel-item{
+    max-width: 1200px;
+}
+
+.listaConocimientos{
+    width: 50%;
+}
+
+    .listaConocimientos li{
+        margin: 5%;
+        padding: 0%;
+        background-color: transparent;
+        border: 0px;
+    }
+
+.listaContacto li{
+    margin: 10%;
+    padding: 0%;
+    background-color: transparent;
+    border: 0px;
+}
