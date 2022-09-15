@@ -2,7 +2,7 @@
     width: 70%;
 }
 
-#carouselExampleCaptions{
+#carouselExampleCaptions, #carouselExampleControls{
     width: 60%;
 }
 .carousel-item{
