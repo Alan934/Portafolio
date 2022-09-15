@@ -1,3 +1,18 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+#cabecera{
+    position: fixed;
+    left:0;
+    top: 0;
+    right: 0%;
+    z-index: 3;
+}
+
+#saludo{
+    padding-top: 8rem;
+}
+
 #presentacion{
     width: 70%;
 }
